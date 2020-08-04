@@ -1,3 +1,4 @@
   
 googletest/* linguist-vendored=true
 test/* linguist-vendored=true
+test_package/* linguist-vendored=true
