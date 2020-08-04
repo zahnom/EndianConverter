@@ -1,3 +1,4 @@
 # Project exclude paths
 /cmake-build-debug/
 .DS_Store
+test_package/build
